@@ -1,4 +1,4 @@
 Tripcode@Home
 ============
 
-The Elastic Tripcode Generation System
+The Elastic Tripcode Mining System
